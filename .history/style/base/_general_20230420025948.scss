@@ -1,0 +1,17 @@
+body {
+  font-family: $primary-font;
+  font-size: 16px;
+  color: black;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}

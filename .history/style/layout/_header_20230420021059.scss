@@ -1,0 +1,23 @@
+header {
+  .layout-container {
+    padding-top: 34px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 117px !important;
+    a {
+      font-weight: 800;
+      font-size: 24px;
+    }
+    ul {
+      display: flex;
+      align-items: center;
+      column-gap: 46px;
+      li {
+        font-family: $secondary-font;
+        font-size: 13px;
+        font-weight: bold;
+      }
+    }
+  }
+}

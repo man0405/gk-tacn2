@@ -1,0 +1,18 @@
+.introduction {
+  h3 {
+    font-family: $secondary-font;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    color: $orangeff;
+    font-weight: bold;
+  }
+  h1 {
+    font-weight: 800;
+    font-size: 54px;
+    max-width: 484px;
+    margin-bottom: 24px;
+  }
+  p {
+    font-size: 17px;
+  }
+}

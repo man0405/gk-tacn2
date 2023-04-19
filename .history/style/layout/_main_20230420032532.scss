@@ -1,0 +1,30 @@
+main {
+  margin-top: 223px;
+  section .layout-container {
+    h2 {
+      text-align: center;
+      font-weight: 600;
+      font-size: 40px;
+      margin-bottom: 70px;
+    }
+    .step-list {
+      display: flex;
+      justify-content: center;
+      .step-item {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        .step-icon {
+          width: 90px;
+          height: 90px;
+          border-radius: 20px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: #9672ff;
+        }
+      }
+    }
+  }
+}
