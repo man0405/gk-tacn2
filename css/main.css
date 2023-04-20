@@ -173,6 +173,7 @@ a {
 header {
   position: relative;
   padding-top: 36px;
+  margin-bottom: 233px !important;
 }
 header .backgroup {
   background-color: #bdccff;
